@@ -1,16 +1,10 @@
-import React, { useState, useRef, useEffect } from "react";
+import React, { useState, useEffect } from "react";
 import {
   View,
-  Text,
-  Image,
   ScrollView,
-  TextInput,
   StyleSheet,
-  Animated,
   Button,
   Dimensions,
-  Vibration,
-  Alert,
   KeyboardAvoidingView,
   Platform,
 } from "react-native";
